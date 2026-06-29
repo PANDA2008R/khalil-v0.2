@@ -83,28 +83,6 @@ badge:"NEW",
 image:"https://picsum.photos/300?1"
 },
 
-{
-id:2,
-name:"Chanteclair Sgrassatore",
-category:"Detergenti",
-price:4.99,
-stock:30,
-rating:5,
-badge:"HOT",
-image:"https://picsum.photos/300?2"
-},
-
-{
-id:3,
-name:"Dash Pods",
-category:"Detergenti",
-price:9.99,
-stock:18,
-rating:5,
-badge:"SALE",
-image:"https://picsum.photos/300?3"
-}
-
 ];
 
 /* =========================
